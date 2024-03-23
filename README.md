@@ -1,5 +1,5 @@
 # `trivial_dep`
 
-A demo of using deps from `C5T/` from `cmake`-based Current builds.
+A demo of using deps from `C5T/` in `cmake`-based Current builds.
 
-`TODO(dkorolev)`: Add links and show how.
+Example usage: **[dkorolev/c5t_trivial_dep_example](https://github.com/dkorolev/c5t_trivial_dep_example)**.
